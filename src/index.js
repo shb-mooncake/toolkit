@@ -1,10 +1,10 @@
-import number from './modules/number'
-import array from './modules/array'
-import string from './modules/string'
-import conversion from './modules/conversion'
-import storage from './modules/storage'
-import verify from './modules/verify'
-import device from './modules/device'
-import browser from './modules/browser'
-import time from './modules/time'
-import js from './modules/js'
+import * as ToolkitNumber from "./modules/number";
+import * as ToolkitArray from "./modules/array";
+import * as ToolkitString from "./modules/string";
+import * as ToolkitConversion from "./modules/conversion";
+import * as ToolkitStorage from "./modules/storage";
+import * as ToolkitVerify from "./modules/verify";
+import * as ToolkitDevice from "./modules/device";
+import * as ToolkitTrowser from "./modules/browser";
+import * as ToolkitTime from "./modules/time";
+import * as ToolkitJs from "./modules/js";
