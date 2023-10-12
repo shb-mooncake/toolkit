@@ -8,8 +8,7 @@ import * as ToolkitDevice from "./modules/device";
 import * as ToolkitTrowser from "./modules/browser";
 import * as ToolkitTime from "./modules/time";
 import * as ToolkitJs from "./modules/js";
-
-export {
+export default {
     ToolkitNumber,
     ToolkitArray,
     ToolkitString,
